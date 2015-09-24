@@ -1,0 +1,3 @@
+password, user_level,first_name,last_name,street,city,state_name,zipcode,phone,email,institution,district,last_verified
+password1,C,Jerry,Mander,123 Any St.,Anytown,ME,12345,207-342-5231,jerrym@abc.net,Mental,Columbia1,0
+password2,C,Mary,Contrary,30 Downer Grove,Boring,NH,23456,202-101-3021,maryc@bliss.com,Higher Learning,Columbia2,0
